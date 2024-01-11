@@ -1,0 +1,6 @@
+This Astro starter was built by Shaun Chander!
+
+GitHub: https://github.com/ileostar
+Personal: https://leostar.top
+
+Checkout the https://humanstxt.org/ protocol to see how you should format your humans.txt file!
